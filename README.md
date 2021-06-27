@@ -26,7 +26,7 @@
     - HTML
     - CSS
     - JS
-  
+    -Bootstrap
 
 ## Contact information
     - Email:nicholasko38@gmail.com
