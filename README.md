@@ -3,7 +3,7 @@
 
 
 ## Project description
-    - Create a Pizza Website using what I have learned so far 
+    - Create a Pizza Website using what I have learned so far using JS CSS & HTML
 
 ## Author(s) information
     - Nicholas Owino
