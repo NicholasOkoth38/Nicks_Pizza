@@ -1,0 +1,35 @@
+body {
+    background: url(../images/danielle-macinnes-logv9s7f67o-unsplash\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-center{
+    color: blanchedalmond;
+}
+
+
+footer {
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+footer p {
+    margin-top: 10px;
+    color: rgb(40, 167, 199);
+    font-size: 30px;
+}
+
+.submit {
+    color: rgb(63, 87, 97);
+    font-size: 40px;
+}
+
+button {
+    color: darkgray;
+}
+
+button:hover {
+    color: rgb(95, 69, 93);
+}
