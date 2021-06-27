@@ -17,7 +17,7 @@
     - See a  small description of what the application does on the landing page. 
     - Choose type Pizza package 
     - Oder any size.
-    - 
+    - Oder any Amount
 
 ## Live link
     Deployed project can be accessed here -  [Akan Names Generator](github.com/NicholasOkoth38/Nicks_Pizza)
