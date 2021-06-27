@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Bootstrap/BOOTSTRAP5/css/bootstrap.css">
+    <link type="text/css" rel="stylesheet" href="../css/oders.css">
+    <script src="../js/Jquery.js"></script>
+    <script src="../js/js.js"></script>
+   <title>Welcome to Nick's Pizza</title>
+   <link rel="shortcut icon" href="../images/karthik-garikapati-oBbTc1VoT-0-unsplash.jpg">
+</head>
+<body>
+    <div class="jumbotron" id="orders">
+        <h1><a href="/index.html">Home</a></h1>
+        <form class="text-center" id="text-center">
+            <label>Pizza Flavor</label><br>
+            <select class="flavors" id="flavor" required><br>
+                <option label="Margherita Pizza" value="800">Margherita Pizza</option>
+                <option label="Pepperoni Pizza" value="1200">Pepperoni Pizza</option>
+                <option label="BBQ Chicken Pizza" value="350">BBQ Chicken Pizza</option>
+                <option label="Meat-Lover's Pizza" value="700">Meat-Lover's Pizza</option>
+                <option label="Beef pizza" value="500">Beef pizza</option>
+                <option label="Double cheese pizza" value="650">Double cheese pizza</option>
+            </select><br>
+            <br><label>Pizza Sizes</label><br>
+            <select class="sizes" id="size" required><br>
+                <option label="Regular" value="300">Regular</option>
+                <option label="Medium" value="600">Medium</option>
+                <option label="Large" value="1200">Large</option>
+            </select><br>
+            <br><label>The Pizza Crust</label><br>
+            <select class="crust" id="crust" required><br>
+                <option label="Thin Crust" value="150">Thin Crust</option>
+                <option label="Thick Crust" value="200">Thick Crust</option>
+                <option label="Deep Crust" value="380">Deep Crust</option>
+                <option label="Cheese Filled Crust" value="500">Cheese Filled Crust</option>
+                <option label="Stuffed Crust" value="345">Stuffed Crust</option>
+            </select><br>
+            <br><label>Your Toppings</label><br>
+            <select class="toppings" id="topping" required><br>
+                <option label="Broccolini" value="100">Broccolini</option>
+                <option label="Gorgonzola" value="300">Gorgonzola</option>
+                <option label="Italian Sausage" value="120">Italian Sausage</option>
+                <option label="Bacon" value="124">Bacon</option>
+                <option label="Green peppers" value="80">Green peppers</option>
+            </select><br>
+            <br><label>Number of pizza</label><br>
+            <input value="" required placeholder="number of pizza" id="quantity"></input><br>
+            <div class="button">
+                <br><br><button type="submit" id="btn" label="">Submit</button>
+            </div>
+        </form>
+    </div>
+    </div>
+    <footer>
+        <p>Copyright Nicholas Owino</p>
+    </footer>
+</body>
+
+</html>
