@@ -1,9 +1,9 @@
 ## Project name
-    - Akan Names
+    - Nicks_Pizza
 
 
 ## Project description
-    - Generate Akan names
+    - Create a Pizza Website using what I have learned so far 
 
 ## Author(s) information
     - Nicholas Owino
@@ -15,12 +15,12 @@
     As a user, I would like to;
 
     - See a  small description of what the application does on the landing page. 
-    - Enter my birthday through a form
-    - Choose what gender I am.
-    - Click the submit button to see what my Akan name would be
+    - Choose type Pizza package 
+    - Oder any size.
+    - 
 
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](https://github.com/NicholasOkoth38/Akan_names)
+    Deployed project can be accessed here -  [Akan Names Generator](github.com/NicholasOkoth38/Nicks_Pizza)
 
 ## Technologies used
     - HTML
