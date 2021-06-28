@@ -20,7 +20,7 @@
     - Oder any Amount
 
 ## Live link
-    Deployed project can be accessed here -  [Akan Names Generator](github.com/NicholasOkoth38/Nicks_Pizza)
+    Deployed project can be accessed here -  [Nick's Pizza](github.com/NicholasOkoth38/Nicks_Pizza)
 
 ## Technologies used
     - HTML
